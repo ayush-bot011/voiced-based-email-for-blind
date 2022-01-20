@@ -4,6 +4,16 @@
 
 ## About:
 Voice Based Email is a python based program which helps people to send the email without actually typing it. This program also has a feature which will read the top most email in the inbox of a user. It will also tell the user about how many unread email you have not seen. This program may be beneficial for the people who are visually impaired
+
+Prerequisites:
+
+ 1. Python 2.6 or greater.
+
+ 2. The pip package management tool.
+
+ 3. A Google account with Gmail enabled.
+ 
+ 
 ## Features:
 •	ask for email login.
 

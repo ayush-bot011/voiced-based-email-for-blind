@@ -24,7 +24,7 @@ Prerequisites:
 
 •	send messages without typing anything.
 
-•	inform total number of unread messages.
+•	Count number of unseen emails.
 
 •	read out the recent email.
 
